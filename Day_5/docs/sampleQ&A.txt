@@ -1,0 +1,84 @@
+Question 1: Global Macroeconomic Growth
+Question: According to the Global Financial Sector Report, what was the stabilized global GDP growth rate in 2025, and what did the average inflation in advanced economies drop to?
+
+Expected RAG Answer: In 2025, global GDP growth stabilized at 3.2%, while average inflation in advanced economies dropped significantly to 2.4%.
+
+Source Location: Global Report – Chapter 1: Macroeconomic Overview & Global GDP.
+
+Question 2: Federal Reserve Monetary Policy
+Question: What was the target funds rate held steady by the Federal Reserve during the first half of 2026, and what was the primary reason for this decision?
+
+Expected RAG Answer: The Federal Reserve target funds rate was held steady at 4.25% throughout the first half of 2026. The primary reason was to curb residual inflation.
+
+Source Location: Global Report – Chapter 2: Federal Reserve Policies & Interest Rates.
+
+Question 3: Asset Management Milestones
+Question: What unprecedented milestone did BlackRock's Assets Under Management (AUM) cross, as noted in the global report?
+
+Expected RAG Answer: BlackRock's Assets Under Management (AUM) crossed the unprecedented threshold of $11.5 trillion following strong equity market performance.
+
+Source Location: Global Report – Chapter 6: Asset Management Industry Growth.
+
+Question 4: Indian GDP Growth Performance
+Question: What was India's real GDP growth rate stabilized at for FY26, and what status did it secure globally as a result?
+
+Expected RAG Answer: India's real GDP growth stabilized at 6.8% for FY26. This performance cemented its position as the fastest-growing major economy globally.
+
+Source Location: Indian Report – Section 01: GDP Growth & Macroeconomic Fundamentals.
+
+Question 5: Digital Payments & UPI Metrics
+Question: What record-breaking transaction volume and monetary value did the Unified Payments Interface (UPI) cross in a single month in early 2026?
+
+Expected RAG Answer: UPI transaction volume crossed a record 16 billion transactions in a single month in early 2026, processing a total value of over ₹20 trillion.
+
+Source Location: Indian Report – Section 03: UPI & Digital Payments Infrastructure.
+
+Question 1: Equity Market Concentration
+Question: According to the US Financial Market Outlook, what exact percentage of the total S&P 500 market capitalization did the "Magnificent Seven" tech equities account for at the start of Q2 2026?
+
+Expected RAG Answer: The 'Magnificent Seven' tech equities accounted for exactly 32.5% of the total S&P 500 market capitalization at the start of Q2 2026.
+
+Source Location: Section 04: Mega-Cap Technology Sector.
+
+Question 2: Cryptocurrency Institutional Adoption
+Question: What was the total amount of cumulative net inflows recorded by Spot Bitcoin ETFs within the first 18 months following SEC approval?
+
+Expected RAG Answer: Spot Bitcoin ETFs recorded cumulative net inflows of $45 billion within the first 18 months following SEC approval.
+
+Source Location: Section 10: Spot Bitcoin ETFs & Crypto Equities.
+
+-------------------------------------------------
+Question 1: Leave Entitlements
+Question: How many Earned Leaves (EL) and Casual/Sick Leaves (CL/SL) is a fresher entitled to according to the company policy?
+
+Answer: A fresher accrues 1.5 Earned Leaves per month (only after the successful completion of the probation period) and is entitled to 12 days of consolidated Casual/Sick Leaves per calendar year (pro-rated based on the date of joining).
+
+Reference: Section 03: Working Hours, Attendance & Leave Policy.
+
+Question 2: Probation and Notice Period
+Question: What is the standard duration of the probation period for freshers, and what is the notice period required if an employee wishes to resign during this time?
+
+Answer: The standard probation period for freshers is 6 months. If an employee wishes to resign during probation, they must serve a 30-day notice period (which increases to 60 days post-confirmation).
+
+Reference: Section 06: Probation Period & Performance Management AND Section 09: Separation, Exit Formalities & Declaration.
+
+Question 3: IT Security Protocols
+Question: How frequently are employees required to update their company account passwords?
+
+Answer: Employees are required to update their strong, alphanumeric passwords every 90 days, and Multi-Factor Authentication (MFA) must always remain enabled.
+
+Reference: Section 05: IT Assets, Network Security & Device Usage.
+
+Question 4: Employee Benefits
+Question: What is the specific percentage of the Provident Fund (PF) contribution, and what is the coverage limit for the Group Medical Insurance?
+
+Answer: Both the employee and the company contribute 12% of the Basic Salary towards the Provident Fund. The Group Medical Insurance policy provides hospitalization coverage of up to $50,000 annually.
+
+Reference: Section 04: Compensation, Payroll & Benefits Administration.
+
+Question 5: Professional Development
+Question: Under the Learning, Development & Career Progression policy, how many certifications will the company sponsor for an employee, and what are the conditions?
+
+Answer: The company will sponsor one industry-recognized technical or management certification per year, provided that it aligns with the employee's career trajectory and is pre-approved by their reporting manager.
+
+Reference: Section 07: Learning, Development & Career Progression.
