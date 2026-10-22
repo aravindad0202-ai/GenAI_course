@@ -2,8 +2,8 @@ import asyncpg
 import os
 import json
 
-# DATABASE_URL = os.getenv("DATABASE_URL") #'postgresql://<username>:<password>@<host>:<port>/<database_name>'
-DATABASE_URL = 'postgresql://chat_bot_db:abcd12345@localhost:5432/chat_bot_db'
+DATABASE_URL = os.getenv("DATABASE_URL") #'postgresql://<username>:<password>@<host>:<port>/<database_name>'
+# DATABASE_URL = 'postgresql://chat_bot_db:abcd12345@localhost:5432/chat_bot_db'
 print('DB',DATABASE_URL)
 class Database:
     def __init__(self):

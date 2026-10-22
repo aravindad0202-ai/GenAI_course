@@ -2,7 +2,7 @@ from fastapi import FastAPI, HTTPException, status
 from contextlib import asynccontextmanager
 from typing import List, Dict
 import json
-from .schemas import *
+from schemas import *
 from dotenv import load_dotenv
 import os
 from google import genai

@@ -1,0 +1,6 @@
+Speaker 1: Welcome everyone. Let's review the Q3 product launch plan.
+Speaker 2: The launch date is set for October 15. We need final approval on the marketing budget.
+Speaker 1: John will confirm the budget by next Monday.
+Speaker 3: We also need to align with the engineering team on the feature readiness criteria.
+Speaker 2: The features are on track, though we still have an open item on performance testing.
+Speaker 1: Action item: schedule a follow-up with engineering and performance testing leads.
